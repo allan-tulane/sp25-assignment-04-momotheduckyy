@@ -18,7 +18,7 @@ Mohini Yadav**
 **
 
 
-- **1c.
+- **1c
 - Log base is d. The work bound is O(d logd|v|) for delete-min operations, and since there are |V| delete-min operations, the total time for delete-min is O(|V| x dlogd |V|).Insert operations or decrease operations take O(logd|V|) time. Because there are as many as |E| insert/ decrease operations, the total time for insertion is: O(|E| x logd |V|). So the overall work bound is O(|V| x dlogd |V| +|E| x logd|V|).**
 
 - **1d.
